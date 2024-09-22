@@ -9,7 +9,7 @@ And now, paving the way to become a Developer シ
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/rodolfoangelinorodrigues/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://blog.rodol.tec.br/">
+  <a href="https://blog.rodolfo.tec.br/">
   <img src="https://img.shields.io/badge/Blog-33B29E?style=for-the-badge&logo=hugo&logoColor=white" alt="My Blog"></a>
 </p>
 
