@@ -76,8 +76,9 @@ And now, paving the way to become a Developer シ
 </p>
 
 <p align="center">
-  <a href="https://github.com/RolfBoard"><img alt="RolfBoard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RolfBoard&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=&title_color=&rank_icon=github&icon_color=" height="192px"/></a>
+  <a href="https://github.com/RolfBoard"><img alt="RolfBoard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RolfBoard&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=&title_color=&rank_icon=github&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
 </p>
+
 <p align="center">
   <a href="https://github.com/RolfBoard"><img alt="RolfBoard's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolfBoard&layout=compact&theme=tokyonight&hide_border=true&bg_color=&title_color=&icon_color=&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
 </p>
