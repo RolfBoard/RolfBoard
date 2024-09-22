@@ -85,7 +85,7 @@ And now, paving the way to become a Developer シ
 
 > **ℹ️ Info:**
 >
-> This is only a metric of the languages my public code consists of, and does not reflect experience or skill level.
+> The above metrics are only for the languages in which my code is public and do not fully reflect my experience or skill level.
 
 ## Activity Graph
 [![RolfBoard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RolfBoard&bg_color=14141D&color=5F91FC&line=33B29E&point=B30089&area=true&hide_border=true)](https://github.com/RolfBoard/github-readme-activity-graph)
